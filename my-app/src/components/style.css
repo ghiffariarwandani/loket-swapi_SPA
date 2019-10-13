@@ -1,0 +1,16 @@
+.loading {
+  margin-left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  margin-top: 80px;
+}
+
+.people-list {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #febf15;
+  margin: 5px; 
+}

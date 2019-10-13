@@ -1,0 +1,39 @@
+.container-detail {
+  background-color: #F2E8CD;
+  width: 100%;
+  height: 100vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.detail-people {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container-detail img {
+  position: absolute;
+  z-index: 0;
+}
+
+.header-profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header-profile img{
+  width: 130px;
+  height: 130px;
+  position: static;
+  z-index: 0;
+}
