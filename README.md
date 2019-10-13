@@ -1,0 +1,1 @@
+# loket-swapi_SPA
